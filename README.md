@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelNjenga
 - 👀 I’m interested in Front and Back End Development. 
-- 🌱 I’m currently learning HTML,CSS and JavaScript.
+- 🌱 I’m currently going through CS50
 - 💞️ I’m looking to collaborate on any project I can be a part of to better my skills.
 
 
